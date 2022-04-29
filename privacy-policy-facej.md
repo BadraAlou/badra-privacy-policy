@@ -34,5 +34,34 @@ A cet effet, les finalités poursuivies par le FACEJ sont les suivantes :<br/>
 - Gérer les demandes d'interceptions,
 - Assurer le blocage, à l'utilisation, des mobiles déclarés volés.
 
+Vos données peuvent être conservées le temps nécessaire pour permettre au FACEJ de répondre à ses obligations légales.<br/>
+
+**FACEJ est également susceptible de réaliser des traitements de vos données à des fins statistiques. Dans ce cas l’ensemble des données est préalablement rendu anonyme.**
+
+**Quelles sont les données traitées ?**<br/>
+
+Selon le cas, Le FACEJ traite vos données personnelles, directement collectées auprès de vous ou résultant de l’utilisation des services.<br/>
+
+Le FACEJ ne traite une donnée ou une catégorie de données que si elle est strictement nécessaire à la finalité́ poursuivie<br/>
+
+- A cet effet, les catégories de données traitées par Orange Mali sont les suivantes :<br/>
+- Données d’identification : Nom, prénom, 
+- Caractéristiques personnelles : date de naissance, genre, nationalité́,
+- Données de contact : adresse physique, email, numéro de téléphone,
+- Interactions entre les utilisateurs,
+- Type et modèle du terminal utilisé,
+
+**Quels sont les destinataires de vos données ?**<br/>
+
+Les données collectées sont destinées aux services internes du FACEJ et à ses partenaires techniques et financiers.<br/>
+
+Les données peuvent également être traitées par des Partenaires et Prestataires qui agissent pour le compte du FACEJ.<br/>
+
+Les données traitées peuvent enfin, être transmises aux Autorités compétentes, à leur demande, dans le cadre de procédures judiciaires, dans le cadre de recherches judiciaires et de sollicitations d'information des autorités ou afin de se conformer à d'autres obligations légales.<br/>
+
+
+
+
+
 
 
