@@ -1,4 +1,4 @@
-Politique de confidentialité des données personnelles des utilisateurs de FACEJBOOK<br/><br/>
+# Politique de confidentialité des données personnelles des utilisateurs de FACEJBOOK<br/><br/>
 Conformément aux dispositions de la Loi n°2013-015 du 21 mai 2013 portant protection des données à caractère
 personnel en République du Mali, le Fonds d’Appui à la Création d’Entreprise par les Jeunes (FACEJ) entend traduire, à 
 travers la présente Politique de confidentialité́, son engagement à assurer la protection, la confidentialité́ et la sécurité́
@@ -11,4 +11,17 @@ Elle est susceptible d’être modifiée ou complétée à tout moment par le F
 consulte régulièrement la présente Politique de confidentialité́ afin de prendre connaissance de ses 
 éventuelles modifications.<br/><br/>
 
-<b>Pourquoi le FACEJ traite vos données ?</b>
+## Pourquoi le FACEJ traite vos données ?
+
+Les finalités poursuivies par le FACEJ sont les suivantes :</b>
+- Gérer l'identification du client ou de l’utilisateur afin de l'authentifier et éviter par conséquent toute usurpation d’identité́, fraude ou infraction à la loi en général,
+- Traiter les requêtes et réclamations formulées par les utilisateurs,
+- Gérer les demandes relatives aux droits des personnes concernées,
+- Stocker les données du client ou de l’utilisateur,
+- Collecter, traiter et analyser les données d’usages des utilisateurs pour concevoir des tableaux de bord, faciliter les prises de décision managériale et proposer des services qui correspondent mieux à leurs besoins,
+- Sonder les utilisateurs,
+- Assurer la sécurité́ de la plateforme,
+- Lutter contre la fraude.
+
+
+
