@@ -60,7 +60,7 @@ Les données peuvent également être traitées par des Partenaires et Prestatai
 Les données traitées peuvent enfin, être transmises aux Autorités compétentes, à leur demande, dans le cadre de procédures judiciaires, dans le cadre de recherches judiciaires et de sollicitations d'information des autorités ou afin de se conformer à d'autres obligations légales.<br/>
 
 
-
+**Quels sont vos droits ?**
 
 
 
