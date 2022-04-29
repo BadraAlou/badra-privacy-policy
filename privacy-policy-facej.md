@@ -23,5 +23,16 @@ Les finalités poursuivies par le FACEJ sont les suivantes :</b>
 - Assurer la sécurité́ de la plateforme,
 - Lutter contre la fraude.
 
+Vos données sont conservées pour la durée nécessaire à l’accomplissement des finalités mentionnées ci-dessus.<br/>
+
+**Le FACEJ traite également vos données pour répondre à ses obligations légales ou règlementaires**
+
+A cet effet, les finalités poursuivies par le FACEJ sont les suivantes :<br/>
+
+- Conserver les données requises pour être mesure de répondre aux obligations légales,
+- Répondre aux réquisitions des autorités et aux décisions de justice,
+- Gérer les demandes d'interceptions,
+- Assurer le blocage, à l'utilisation, des mobiles déclarés volés.
+
 
 
