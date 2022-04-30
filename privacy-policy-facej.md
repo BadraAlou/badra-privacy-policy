@@ -60,7 +60,24 @@ Les données peuvent également être traitées par des Partenaires et Prestatai
 Les données traitées peuvent enfin, être transmises aux Autorités compétentes, à leur demande, dans le cadre de procédures judiciaires, dans le cadre de recherches judiciaires et de sollicitations d'information des autorités ou afin de se conformer à d'autres obligations légales.<br/>
 
 
-**Quels sont vos droits ?**
+**Quels sont vos droits ?**<br/>
+
+Vous disposez d’un droit d’accès, de rectification et de suppression des données qui vous concernent. Vous avez également le droit de vous opposer, pour des motifs légitimes, aux traitements réalisés ou d’en demander la limitation.<br/>
+
+**Comment exercer vos droits ?**
+Vous pouvez exercer vos droits à tout moment en contactant le FACEJ par mail : contact@facej.org ou en adressant une demande écrite à l’adresse suivante : Swisscontact Mali, ACI Sotuba Bamako B.P. E2346– Mali.<br/>
+
+Toute demande d'exercice de vos droits doit être accompagnée de la photocopie d'un justificatif d'identité́ valide. Une réponse vous sera adressée dans un délai d'un mois à compter de la réception de votre demande.<br/>
+
+**Comment vos données sont-elles sécurisées ?**
+
+Le FACEJ s’assure que vos données sont traitées en toute sécurité́ et confidentialité́, y compris lorsque certaines opérations sont réalisées par des prestataires ou Partenaires. A cet effet les mesures techniques et organisationnelles appropriées pour éviter la perte, la mauvaise utilisation, l’altération et la suppression des données personnelles vous concernant sont mises en place. Ces mesures sont adaptées selon le niveau de sensibilité́ des données traitées et selon le niveau de risque que présente le traitement ou sa mise en œuvre.<br/>
+
+**Modification de la Politique de protection des données**<br/>
+
+La présente Politique de confidentialité des données personnelles peut être amenée à évoluer.<br/>
+
+Dernière mise à jour le ...
 
 
 
